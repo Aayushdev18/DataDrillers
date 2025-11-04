@@ -1,0 +1,10 @@
+Research Questions (8)
+
+1. Which genres show increase or decrease in average ratings over the last 20 years?
+2. Do directors consistently have higher/lower rated movies on average?
+3. Does runtime have correlation with audience ratings?
+4. Do movies with extremely high or low budgets have biased rating tendencies? (budget using external source optional)
+5. Which countries produce consistently high-rated movies? (if region mapping is available)
+6. Are critic ratings aligned with audience ratings? (if RottenTomatoes/MetaCritic merge later)
+7. Do subgenres show stronger trend shift than parent genre?
+8. Are there significantly different rating patterns for movies that have very high vote counts vs low vote counts?
