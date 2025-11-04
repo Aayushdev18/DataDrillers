@@ -1,0 +1,19 @@
+Literature Review References
+
+Reference 1:
+Paper: "Predicting Movie Success and Ratings: A Data Mining Approach"
+Finding: Runtime + Genre shows partial correlation to user ratings
+
+Reference 2:
+Paper: "Director Effect on Movie Ratings"
+Finding: Certain directors statistically give consistent higher rated outputs
+
+Reference 3:
+Paper: "Audience vs Critic Ratings — Comparative Evaluation of IMDB & RottenTomatoes"
+Finding: Vote-volume changes rating stability
+
+Reference 4:
+Research article: "Genre Trend Evolution in Cinema (1990-2020)"
+Finding: Genre popularity shifts strongly correlate with rating variations
+
+These references justify our research questions selection.
