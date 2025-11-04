@@ -1,0 +1,19 @@
+Team Work Distribution
+
+Team Members: 2
+
+Member 1 (Ayush Dev):
+- Responsible for data download, cleaning, missing value handling
+- Pre-process title.basics.tsv, title.ratings.tsv, name.basics.tsv
+- Prepare structured datasets for analysis
+- Documentation + pushing to GitHub
+
+Member 2 (Siddhartha Shukla)
+- Literature study
+- Formulates research questions
+- Designs research methodology for each question
+- Data exploration & visualisation
+
+Common:
+- Both contribute to weekly review and report writing
+- Both will maintain commits in GitHub repo individually
