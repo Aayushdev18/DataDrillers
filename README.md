@@ -1,4 +1,4 @@
-# IMDb Data Mining Project (Phase 1)
+# IMDb Data Mining Project 
 
 ## Project Title
 Mining IMDb Dataset for Movie Trends
