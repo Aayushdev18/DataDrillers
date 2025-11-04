@@ -1,0 +1,31 @@
+Data Processing Plan
+
+IMDb raw datasets used:
+- title.basics.tsv.gz
+- title.ratings.tsv.gz
+- name.basics.tsv.gz
+- title.crew.tsv.gz (optional for director mapping)
+
+Processing Steps:
+
+1. Download IMDB non-commercial dataset:
+   https://datasets.imdbws.com/
+
+2. Load .tsv into pandas dataframe
+
+3. Filter “movie” category only (titleType == 'movie')
+
+4. Clean columns:
+   - Handle null startYear, runtimeMinutes
+   - Convert numVotes, averageRating to numeric
+   - Explode genres column into single genre per row
+
+5. Join tables:
+   - title.basics ↔ title.ratings via tconst
+   - Optionally map directors via title.crew table
+
+6. Final Preprocessed Dataset:
+   columns required:
+   tconst, primaryTitle, genres, startYear, runtimeMinutes, averageRating, numVotes, director(s)
+
+7. Save cleaned dataset as CSV for analysis
