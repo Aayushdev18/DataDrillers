@@ -1,19 +1,17 @@
-Literature Review References
+### Literature Review References
 
-Reference 1:
-Paper: "Predicting Movie Success and Ratings: A Data Mining Approach"
-Finding: Runtime + Genre shows partial correlation to user ratings
+**Reference 1:**  
+[Predicting Movie Success and Ratings: A Data Mining Approach](https://www.researchgate.net/publication/377133152_Movie_Success_and_Rating_Prediction_Using_Data_Mining)  
+*Finding:* Runtime + Genre shows partial correlation to user ratings  
 
-Reference 2:
-Paper: "Director Effect on Movie Ratings"
-Finding: Certain directors statistically give consistent higher rated outputs
+**Reference 2:**  
+[Director Effect on Movie Ratings](https://bura.brunel.ac.uk/bitstream/2438/23692/1/FullText.pdf)  
+*Finding:* Certain directors statistically give consistent higher rated outputs  
 
-Reference 3:
-Paper: "Audience vs Critic Ratings — Comparative Evaluation of IMDB & RottenTomatoes"
-Finding: Vote-volume changes rating stability
+**Reference 3:**  
+[Audience vs Critic Ratings — Comparative Evaluation of IMDB & RottenTomatoes](https://www.researchgate.net/publication/369147262_Investigate_the_Effect_of_Rotten_Tomatoes_and_IMD_b's_Rating_and_Critic_Review_son_Movies_Publicity)  
+*Finding:* Vote-volume changes rating stability  
 
-Reference 4:
-Research article: "Genre Trend Evolution in Cinema (1990-2020)"
-Finding: Genre popularity shifts strongly correlate with rating variations
-
-These references justify our research questions selection.
+**Reference 4:**  
+[Genre Trend Evolution in Cinema (1990-2020)](https://www.researchgate.net/publication/373664364_Mapping_movie_genre_evolution_1994_-_2019_using_the_role_of_cultural_and_temporal_shifts_a_thematic_analysis)  
+*Finding:* Genre popularity shifts strongly correlate with rating variations  
